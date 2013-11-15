@@ -1,4 +1,3 @@
 sMT_bakeLayers
 --------------
-*Description:*
-A simple C# script for Grasshopper that names and bakes a dataTree of curves to the necessary layer structure for import into superMatterTools.
+A simple C# script for Grasshopper that bakes two dataTrees of curves (tool paths & reference paths) with the necessary name/layer structure for import into superMatterTools.
